@@ -20,3 +20,6 @@ I’m a 17-year-old Brazilian student currently pursuing a Technical Degree in S
 <a href="https://www.mysql.com/">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>
 </a>
+
+## Get In Touch
+[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkormannpeters@gmail.com)
