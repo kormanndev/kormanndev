@@ -17,4 +17,6 @@ I’m a 17-year-old Brazilian student currently pursuing a Technical Degree in S
 <a href="https://www.w3schools.com/css/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/>
 </a>
-
+<a href="https://www.mysql.com/">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>
+</a>
