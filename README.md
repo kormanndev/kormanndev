@@ -30,8 +30,8 @@ I’m a 17-year-old Brazilian student currently pursuing a Technical Degree in S
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
+</div>
 ## Get In Touch
 [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkormannpeters@gmail.com)
 <a href="https://www.linkedin.com/in/miguel-kormann-peters-951306402/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
